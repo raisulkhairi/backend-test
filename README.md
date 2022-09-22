@@ -1,4 +1,9 @@
 # backend-test
+**technology used:** <br/>
+Node.js <br/>
+Framework Express.js <br/>
+Database MongoDB <br/>
+<br/>
 1.npm i <br/>
 2.npm start <br/>
 
